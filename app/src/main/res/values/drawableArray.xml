@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="slot_img">
+        <item>@drawable/banana</item>
+        <item>@drawable/bar</item>
+        <item>@drawable/bigwin</item>
+        <item>@drawable/cherry</item>
+        <item>@drawable/grape</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/seven</item>
+        <item>@drawable/waltermelon</item>
+    </integer-array>
+</resources>
